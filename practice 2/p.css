@@ -1,0 +1,23 @@
+body{
+    background-color: aliceblue;
+}
+.main-content{
+    margin: auto;
+    max-width: 500px;
+}
+h1{
+    color: goldenrod;
+    font-style: oblique;
+    text-shadow: 20px solid black;
+}
+button{
+    width: 180px;
+    border: none;
+    background-color: goldenrod;
+    padding: 10px 0px;
+    border-radius: 4px;
+    font-size: x-large;
+    color: white;
+    margin-top: 100px;
+    font-style: oblique;
+}
